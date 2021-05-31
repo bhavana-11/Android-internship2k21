@@ -5,3 +5,4 @@ Day 3: about GitHub
 Day 4: what,why,how android
 Day 5:beginning of android application
 Day 6: first application of android
+Day 7: Text views and scroll views
