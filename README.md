@@ -7,3 +7,4 @@ Day 5:beginning of android application
 Day 6: first application of android
 Day 7: Text views and scroll views
 Day 8: Intents
+Day 9: Activity life cycle and an application on input contents
