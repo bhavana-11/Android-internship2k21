@@ -9,3 +9,5 @@ Day 7: Text views and scroll views
 Day 8: Intents
 Day 9: Activity life cycle and an application on input contents
 Day 10: New modification on application of input contents
+Day 11: menus
+Day 12: An application on Timepicker and an application on Tab notification
